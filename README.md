@@ -1,2 +1,2 @@
 # demo.delta
-my first repo of github  , learning github.
+my first repo of github &amp; in  learning github.
